@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(92, 98, 170);
+    font-family: "press Start 2P";
+}
+.button{
+    background-color: rgb(92, 98, 170);
+    height: 60px;
+    width: 300px;
+}
+.github{
+    height: 50px;
+    width: 50px;
+    
+}
+.pixiv{
+    height: 45px;
+    width: 45px;
+}
