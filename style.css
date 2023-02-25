@@ -114,20 +114,7 @@ body{
 }
 @media screen and (max-width: 600px)
 {
-    #intro{
-  
-       
-        color: aliceblue;
-        margin: 30px auto;
-        width: 30%
-    
-    }
-    #header{
-      
-        font-size: 100%;
-        margin: 0px auto;
-        width: 100%;
-    }
+   
     .button{
        
          
