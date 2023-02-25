@@ -1,5 +1,5 @@
 body{
-    background-color: #020419;
+    background-color: rgb(12, 11, 34);
     font-family: "press Start 2P", sans-serif;
 }
 .All{
@@ -31,17 +31,17 @@ body{
 }
 .button1{
    border-color: whitesmoke;
-    background-color:#020419;
+    background-color:rgb(12, 11, 34);
     height: 60px;
     width: 400px;
    border-radius: 15px;
   margin-top: 0px;
-   box-shadow: inset 0 0 0 0 #1c1d28;
+   box-shadow: inset 0 0 0 0 #262733;
    transition: ease-out 0.3s;
 }
 .button2{
     border-color: whitesmoke;
-    background-color:#020419;
+    background-color:rgb(12, 11, 34);
     height: 60px;
     width: 400px;
     border-radius: 15px;
@@ -51,7 +51,7 @@ body{
 }
 .button3{
     border-color: whitesmoke;
-    background-color:#020419;
+    background-color:rgb(12, 11, 34);
     height: 60px;
     width: 400px;
     border-radius: 15px;
@@ -61,7 +61,7 @@ body{
 }
 .button4{
     border-color: whitesmoke;
-    background-color:#020419;
+    background-color:rgb(12, 11, 34);
     height: 60px;
     width: 400px;
     border-radius: 15px;
@@ -88,7 +88,7 @@ body{
     width: 60px;
 }
 .button1:hover {
-    box-shadow: inset 400px 0 0 0 #1c1d20;
+    box-shadow: inset 400px 0 0 0 #262733;
 }
 .button2:hover {
     box-shadow: inset 400px 0 0 0 #7091ee;
@@ -123,17 +123,17 @@ body{
      }
      .button1{
         border-color: whitesmoke;
-         background-color:#020419;
+         background-color:rgb(12, 11, 34);
          
          width: 100%;
         border-radius: 15px;
        margin-top: 0px;
-        box-shadow: inset 0 0 0 0 #1c1d28;
+        box-shadow: inset 0 0 0 0 #262733;
         transition: ease-out 0.3s;
      }
      .button2{
          border-color: whitesmoke;
-         background-color:#020419;
+         background-color:rgb(12, 11, 34);
          
          width: 100%;
          border-radius: 15px;
@@ -143,7 +143,7 @@ body{
      }
      .button3{
          border-color: whitesmoke;
-         background-color:#020419;
+         background-color:rgb(12, 11, 34);
        
          width: 100%;
          border-radius: 15px;
@@ -153,7 +153,7 @@ body{
      }
      .button4{
          border-color: whitesmoke;
-         background-color:#020419;
+         background-color:rgb(12, 11, 34);
         
          width: 100%;
          border-radius: 15px;
@@ -180,7 +180,7 @@ body{
          width: 60px;
      }
      .button1:hover {
-         box-shadow: inset 400px 0 0 0 #1c1d20;
+         box-shadow: inset 400px 0 0 0 #262733;
      }
      .button2:hover {
          box-shadow: inset 400px 0 0 0 #7091ee;
