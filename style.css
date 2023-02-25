@@ -1,6 +1,6 @@
 body{
     background-color: #020419;
-    font-family: "press Start 2P";
+    font-family: "press Start 2P", sans-serif;
 }
 .All{
     
@@ -116,17 +116,17 @@ body{
 {
     #intro{
   
-        
+       
         color: aliceblue;
         margin: 30px auto;
-        width: 50%
+        width: 45%
     
     }
     #header{
-       
+      
         font-size: 100%;
         margin: 0px auto;
-        width: 60%;
+        width: 100%;
     }
     .button{
        
@@ -208,8 +208,9 @@ body{
    
         display: block;
         margin: 0px auto;
-        width: 50%;
+        width: 80%;
      }
+
 
 
 
