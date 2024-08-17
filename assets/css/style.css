@@ -1,0 +1,226 @@
+body{
+    background-color: rgb(12, 11, 34);
+    font-family: "press Start 2P", sans-serif;
+}
+.All{
+    
+    display: block;
+    margin: 20px auto;
+    width: 70%;
+}
+
+
+.animated{
+   
+    display: block;
+    margin: 0px auto;
+    width: 50%;
+}
+.socials{
+   
+    display: block;
+    margin: 30px auto;
+    width: 70%;
+    
+}
+.button{
+   
+    height:240px ;
+    width: 400px;
+    margin: 0px auto;
+}
+.button1{
+   border-color: whitesmoke;
+    background-color:rgb(12, 11, 34);
+    height: 60px;
+    width: 400px;
+   border-radius: 15px;
+  margin-top: 0px;
+   box-shadow: inset 0 0 0 0 #1c1d28;
+   transition: ease-out 0.3s;
+}
+.button2{
+    border-color: whitesmoke;
+    background-color:rgb(12, 11, 34);
+    height: 60px;
+    width: 400px;
+    border-radius: 15px;
+    margin-top: 20px;
+    box-shadow: inset 0 0 0 0 #7091e8;
+   transition: ease-out 0.3s
+}
+.button3{
+    border-color: whitesmoke;
+    background-color:rgb(12, 11, 34);
+    height: 60px;
+    width: 400px;
+    border-radius: 15px;
+    margin-top: 20px;
+    box-shadow: inset 0 0 0 0 #ff0000;
+   transition: ease-out 0.3s
+}
+.button4{
+    border-color: whitesmoke;
+    background-color:rgb(12, 11, 34);
+    height: 60px;
+    width: 400px;
+    border-radius: 15px;
+    margin-top: 20px;
+    box-shadow: inset 0 0 0 0 #2c2cdd;
+   transition: ease-out 0.3s
+}
+.github{
+    height: 50px;
+    width: 50px;
+   
+}
+.artstation{
+    height: 45px;
+    width: 45px;
+}
+.youtube{
+    height: 47px;
+    width: 64px;
+}
+.mal{
+    margin-top: 05px;
+    height: 25px;
+    width: 60px;
+}
+.button1:hover {
+    box-shadow: inset 400px 0 0 0 #1c1d20;
+}
+.button2:hover {
+    box-shadow: inset 400px 0 0 0 #7091ee;
+}
+.button3:hover {
+    box-shadow: inset 400px 0 0 0 #ff0000;
+}
+.button4:hover {
+    box-shadow: inset 400px 0 0 0 #2c2cdd;
+}
+#intro{
+  
+    
+    color: aliceblue;
+    margin: 50px auto;
+    width: 50%
+
+}
+#header{
+    font-size: 35px;
+    margin: 0px auto;
+    width: 50%;
+}
+@media screen and (max-width: 600px)
+{
+   
+    .button{
+       
+         
+         width: 100%;
+         margin: 0px auto;
+     }
+     .button1{
+        border-color: whitesmoke;
+         background-color:#020419;
+         
+         width: 100%;
+        border-radius: 15px;
+       margin-top: 0px;
+        box-shadow: inset 0 0 0 0 #1c1d28;
+        transition: ease-out 0.3s;
+     }
+     .button2{
+         border-color: whitesmoke;
+         background-color:#020419;
+         
+         width: 100%;
+         border-radius: 15px;
+         margin-top: 20px;
+         box-shadow: inset 0 0 0 0 #7091e8;
+        transition: ease-out 0.3s
+     }
+     .button3{
+         border-color: whitesmoke;
+         background-color:#020419;
+       
+         width: 100%;
+         border-radius: 15px;
+         margin-top: 20px;
+         box-shadow: inset 0 0 0 0 #ff0000;
+        transition: ease-out 0.3s
+     }
+     .button4{
+         border-color: whitesmoke;
+         background-color:#020419;
+        
+         width: 100%;
+         border-radius: 15px;
+         margin-top: 20px;
+         box-shadow: inset 0 0 0 0 #2c2cdd;
+        transition: ease-out 0.3s
+     }
+     .github{
+         height: 50px;
+         width: 50px;
+        
+     }
+     .pixiv{
+         height: 45px;
+         width: 45px;
+     }
+     .youtube{
+         height: 47px;
+         width: 64px;
+     }
+     .mal{
+         margin-top: 05px;
+         height: 25px;
+         width: 60px;
+     }
+     .button1:hover {
+         box-shadow: inset 400px 0 0 0 #1c1d20;
+     }
+     .button2:hover {
+         box-shadow: inset 400px 0 0 0 #7091ee;
+     }
+     .button3:hover {
+         box-shadow: inset 400px 0 0 0 #ff0000;
+     }
+     .button4:hover {
+         box-shadow: inset 400px 0 0 0 #2c2cdd;
+     }
+     .animated{
+   
+        display: block;
+        margin: 0px auto;
+        width: 80%;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
